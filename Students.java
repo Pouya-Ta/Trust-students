@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Scanner;
 
-public class Q1 {
+public class Students {
     public static void main(String[] args) {
 
         ArrayList<Integer> test = new ArrayList<>();
